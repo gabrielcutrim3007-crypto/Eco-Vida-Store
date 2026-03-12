@@ -47,7 +47,7 @@ Layout responsivo para uso em qualquer dispositivo.
 
 5. Footer
 
-Informações de rodapé, incluindo links para redes sociais, informações de contato e políticas da loja.
+Informações de rodapé, incluindo links para redes sociais.
 
 ## Tarefas de Desenvolvimento
 
